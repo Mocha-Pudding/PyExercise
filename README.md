@@ -2,7 +2,7 @@
 </br>
 <h1 align="center">:whale:Python学习进阶之路记录:whale:</h></br>
 </br>
-<p align="center">🍭🍭🍭👋👋👋<p>
+<p align="center">🍭🍭🍭👋👋👋</p>
 
 > <h5>每日一更，学习记录 daily update.</h5>
 
