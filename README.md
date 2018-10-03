@@ -66,3 +66,15 @@
 │    │    └── 9.3   递归思想处理汉诺塔
 │    │
 │    └── END
+│
+├───BeautifulSoup基本操作.ipynb
+│    ├── BeautifulSoup的基本用法
+│
+├───Jupyter Notebook记录.ipynb
+│    ├── Jupyter Notebook基本使用方法
+│
+├───PyArithmetic.ipynb
+│    ├── 算法集合
+│
+└───END
+```
