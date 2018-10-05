@@ -65,16 +65,21 @@
 │    │    ├── 9.2   递归思想处理买汽水
 │    │    └── 9.3   递归思想处理汉诺塔
 │    │
-│    └── END
+│    └── END 
 │
 ├───BeautifulSoup基本操作.ipynb
-│    ├── BeautifulSoup的基本用法
+│    └── BeautifulSoup的基本用法
+│
+├───Crawler_Sina.ipynb
+│    └── 新浪新闻爬虫，获取新闻正文内容、标题、发布时间、评论数、责任编辑等，并对相应格式进行整理和转换，最后把抓取评论数方法和抓取内文信息方法整理函数，如getCommentCounts()和getNewsDetail()等。
 │
 ├───Jupyter Notebook记录.ipynb
-│    ├── Jupyter Notebook基本使用方法
+│    └── Jupyter Notebook基本使用方法
 │
 ├───PyArithmetic.ipynb
-│    ├── 算法集合
+│    └── 算法集合
 │
 └───END
 ```
+
+
