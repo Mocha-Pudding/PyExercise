@@ -107,8 +107,8 @@
 │    │    └── https://github.com/sylnsfar/qrcode
 │    ├── 10.Scrapyd: A service daemon to run Scrapy spiders 部署爬虫程序到服务器
 │    │    └── https://github.com/scrapy/scrapyd
-│    ├── 11.
-│    │    └── 
+│    ├── 11.Python 编程核心知识体系
+│    │    └── https://woaielf.github.io/2017/06/13/python3-all/
 │    ├── 12.
 │    │    └──
 │    ├── 13.
