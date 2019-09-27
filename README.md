@@ -111,7 +111,9 @@
 │    │    └── https://woaielf.github.io/2017/06/13/python3-all/
 │    ├── 12.Python for Data Analysis 利用Python进行数据分析
 │    │    ├── Python for Data Analysis, 2nd Edition 原书仓库地址：https://github.com/wesm/pydata-book
-
+│    │    ├── 中文翻译 v1：https://github.com/BrambleXu/pydata-notebook
+│    │    ├── 中文翻译 v2：https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version
+│    │    └── 简书阅读：https://www.jianshu.com/p/04d180d90a3f
 │    ├── 13.
 │    │    └── 
 │    ├── 14.
