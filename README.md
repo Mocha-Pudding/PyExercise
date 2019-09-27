@@ -109,8 +109,9 @@
 │    │    └── https://github.com/scrapy/scrapyd
 │    ├── 11.Python 编程核心知识体系
 │    │    └── https://woaielf.github.io/2017/06/13/python3-all/
-│    ├── 12.
-│    │    └──
+│    ├── 12.Python for Data Analysis 利用Python进行数据分析
+│    │    ├── Python for Data Analysis, 2nd Edition 原书仓库地址：https://github.com/wesm/pydata-book
+
 │    ├── 13.
 │    │    └── 
 │    ├── 14.
